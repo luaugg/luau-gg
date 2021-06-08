@@ -6,6 +6,7 @@ function Portfolio() {
             <Head>
                 <title>sam's portfolio</title>
                 <link rel="shortcut icon" href="./favicon.ico" />
+                <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet'></link>
             </Head>
         </div>
     )
