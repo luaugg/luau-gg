@@ -3,8 +3,7 @@ import 'tailwindcss/tailwind.css'
 
 function Portfolio() {
     return (
-        <div>    
-        </div>
+        <div />
     )
 }
 
