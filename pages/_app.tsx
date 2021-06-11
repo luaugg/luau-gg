@@ -25,6 +25,10 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                 <a className="flex-initial my-auto" href="https://twitter.com/luauOW">
                     <img className="w-8 h-7" src="twitter.png" />
                 </a>
+
+                <a className="flex-initial my-auto" href="https://twitch.tv/samophis">
+                    <img className="w-8 h-8" src="twitch.png" />
+                </a>
             </div>
 
             <Component {...pageProps} />
