@@ -3,14 +3,14 @@ import Head from 'next/head'
 
 export default function DefaultApp({ Component, pageProps }: AppProps) {
     return (
-        <div className="bg-gray-100 h-full">
+        <div className="flex flex-col bg-gray-100 w-screen h-screen">
             <Head>
                 <title>sam's portfolio</title>
                 <link rel="shortcut icon" href="./favicon.ico" />
             </Head>
 
             <div className="flex space-x-8 pl-5 pr-5 h-14 w-screen bg-white shadow-md">
-                <img className="flex-initial my-auto rounded-full w-10 h-10" src="avatar.jpg" />
+                <img className="flex-initial my-auto rounded-full w-8 h-8" src="avatar.jpg" />
                 
                 <a className="flex-inital my-auto font-sans font-semibold text-gray-600 hover:text-red-500" href="/">About Me</a>
 
@@ -30,6 +30,8 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                     <img className="w-7 h-7" src="twitch.png" />
                 </a>
             </div>
+
+            <a href="https://github.com/SamOphis/portfolio" className="order-last mx-auto mb-10 text-gray-600 text-sm font-normal">Made with a bunch of 💝</a>
 
             <Component {...pageProps} />
         </div>

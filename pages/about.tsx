@@ -3,7 +3,7 @@ import 'tailwindcss/tailwind.css'
 export default function Portfolio() {
     return (
         <div className="flex w-screen h-screen">
-            <div className="flex flex-col flex-wrap mt-10 mx-auto w-1/4 h-1/2 rounded-lg shadow bg-white space-y-5">
+            <div className="flex flex-col flex-wrap mt-10 mx-auto w-1/3 h-1/2 rounded-lg shadow bg-white space-y-5">
                 <div className="font-sans font-extralight sm:text-4xl text-gray-600 mx-auto mt-10">Hi, I'm Sam.</div>
                 <p className="font-sans font-extralight sm:text-md text-center text-gray-600 mb-10 mx-auto w-4/5">
                     Nice to meet you!
