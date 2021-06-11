@@ -1,10 +1,7 @@
-import Head from 'next/head'
 import 'tailwindcss/tailwind.css'
 
-function Portfolio() {
+export default function Portfolio() {
     return (
         <div />
     )
 }
-
-export default Portfolio
