@@ -1,12 +1,9 @@
 import Head from 'next/head'
+import 'tailwindcss/tailwind.css'
 
 function Portfolio() {
     return (
-        <div>
-            <Head>
-                <title>sam's portfolio</title>
-                <link rel="shortcut icon" href="./favicon.ico" />
-            </Head>
+        <div>    
         </div>
     )
 }
