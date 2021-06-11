@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 export default function DefaultApp({ Component, pageProps }: AppProps) {
     return (
-        <div className="bg-gray-100 h-screen">
+        <div className="bg-gray-100 h-full">
             <Head>
                 <title>sam's portfolio</title>
                 <link rel="shortcut icon" href="./favicon.ico" />
@@ -19,15 +19,15 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                 <div className="flex-initial flex-grow" />
 
                 <a className="flex-initial my-auto" href="https://discord.gg/UbXkbrXxT7">
-                    <img className="w-9 h-9" src="discord.png" />
+                    <img className="w-8 h-8" src="discord.png" />
                 </a>
 
                 <a className="flex-initial my-auto" href="https://twitter.com/luauOW">
-                    <img className="w-8 h-7" src="twitter.png" />
+                    <img className="w-7 h-6" src="twitter.png" />
                 </a>
 
                 <a className="flex-initial my-auto" href="https://twitch.tv/samophis">
-                    <img className="w-8 h-8" src="twitch.png" />
+                    <img className="w-7 h-7" src="twitch.png" />
                 </a>
             </div>
 
