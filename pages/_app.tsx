@@ -12,18 +12,9 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
             <div className="flex space-x-8 pl-5 h-14 w-screen bg-white shadow-md">
                 <img className="flex-initial my-auto rounded-full w-10 h-10" src="avatar.jpg" />
                 
-                <div className="relative flex-initial my-auto font-sans font-semibold text-gray-600">
-                    About Me
-                    <div className="absolute inset-x-0 top-6 w-17 h-0.5 rounded-full bg-gray-600" />
-                </div>
+                <a className="relative flex-inital my-auto font-sans font-semibold text-gray-600 hover:text-red-500" href="/">About Me</a>
 
-                <div className="relative flex-initial my-auto font-sans font-semibold text-gray-600">
-                    Projects
-                </div>
-
-                <div className="relative flex-initial my-auto font-sans font-semibold text-gray-600">
-                    Links
-                </div>
+                <a className="relative flex-inital my-auto font-sans font-semibold text-gray-600 hover:text-red-500" href="/projects">Projects</a>
             </div>
 
             <Component {...pageProps} />
