@@ -3,13 +3,13 @@ import Head from 'next/head'
 
 export default function DefaultApp({ Component, pageProps }: AppProps) {
     return (
-        <>
+        <div className="bg-gray-100 h-screen">
             <Head>
                 <title>sam's portfolio</title>
                 <link rel="shortcut icon" href="./favicon.ico" />
             </Head>
 
-            <div className="flex space-x-8 pl-5 h-14 w-screen shadow-lg">
+            <div className="flex space-x-8 pl-5 h-14 w-screen bg-white shadow-md">
                 <img className="flex-initial my-auto rounded-full w-10 h-10" src="avatar.jpg" />
                 
                 <div className="relative flex-initial my-auto font-sans font-semibold text-gray-600">
@@ -26,9 +26,7 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                 </div>
             </div>
 
-            <div className="bg-gray-200 h-screen" />
-
             <Component {...pageProps} />
-        </>
+        </div>
     )
 }
