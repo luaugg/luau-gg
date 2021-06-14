@@ -3,9 +3,9 @@ import 'tailwindcss/tailwind.css'
 export default function Portfolio() {
     return (
         <div className="flex w-screen h-screen">
-            <div className="flex flex-col flex-wrap mt-10 mx-auto w-1/3 h-1/2 rounded-lg shadow bg-white space-y-5">
-                <div className="font-sans font-extralight sm:text-4xl text-gray-600 mx-auto mt-10">Hi, I'm Sam.</div>
-                <p className="font-sans font-extralight sm:text-md text-center text-gray-600 mb-10 mx-auto w-4/5">
+            <div className="flex flex-col flex-initial flex-wrap mt-10 mx-auto w-1/3 h-auto xl:h-2/5 rounded-lg shadow bg-white space-y-5">
+                <div className="font-sans font-extralight sm:text-4xl text-xl text-gray-600 mx-auto mt-10">Hi, I'm Sam.</div>
+                <p className="font-sans font-extralight md:text-sm text-xs text-center text-gray-600 mx-auto w-4/5 h-1/2">
                     Nice to meet you!
                     <br />
                     I am a backend <a className="text-red-500 font-medium" href="https://github.com/SamOphis">software developer </a>  
