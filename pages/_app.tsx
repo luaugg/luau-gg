@@ -14,8 +14,6 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                 
                 <a className="flex-inital my-auto font-sans font-semibold text-gray-600 hover:text-red-500" href="/">About Me</a>
 
-                <a className="flex-inital my-auto font-sans font-semibold text-gray-600 hover:text-red-500" href="/projects">Projects</a>
-
                 <div className="flex-initial flex-grow" />
 
                 <a className="flex-initial my-auto" href="https://discord.gg/UbXkbrXxT7">
@@ -31,7 +29,7 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                 </a>
             </div>
 
-            <a href="https://github.com/SamOphis/portfolio" className="order-last mx-auto mb-10 text-gray-600 text-sm font-normal">Made with a bunch of 💝</a>
+            <a href="https://github.com/SamOphis/portfolio" className="order-last mx-auto mb-10 text-gray-600 text-smfont-normal">Made with a bunch of 💝</a>
 
             <Component {...pageProps} />
         </div>
