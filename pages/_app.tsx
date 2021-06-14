@@ -29,7 +29,7 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                 </a>
             </div>
 
-            <a href="https://github.com/SamOphis/portfolio" className="order-last mx-auto mb-10 text-gray-600 text-smfont-normal">Made with a bunch of 💝</a>
+            <a href="https://github.com/SamOphis/luau-gg" className="order-last mx-auto mb-10 text-gray-600 text-smfont-normal">Made with a bunch of 💝</a>
 
             <Component {...pageProps} />
         </div>
