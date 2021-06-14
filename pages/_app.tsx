@@ -7,6 +7,10 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
             <Head>
                 <title>sam's portfolio</title>
                 <link rel="shortcut icon" href="./favicon.ico" />
+                <meta property="og:title" content="sam 🍒's portfolio" />
+                <meta property="og:description" content="y'know when kittens knead blankets? that's the vibe i wanna hold forever ☕" />
+                <meta property="og:image" content="https://i.imgur.com/1ktox2r.png" />
+                <meta name="theme-color" content="#DFB69A"></meta>
             </Head>
 
             <div className="flex space-x-8 pl-5 pr-5 h-14 w-screen bg-white shadow-md">
