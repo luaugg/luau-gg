@@ -16,11 +16,11 @@ export default function Portfolio() {
                     called <a className="text-red-500 font-medium" href="https://twitter.com/PowerDragonsGa1">Power Dragons</a> 🎮.
                     I'm also responsible for managing its parent 
                     organisation's <a className="text-red-500 font-medium" href="https://twitter.com/PowerNappers_OW">social media</a> 📱, as
-                    well as managing the upcoming Academy Team 📋.
+                    well as managing the newest team, <a className="text-red-500 font-medium" href="https://twitter.com/PowerBlossomsOW">Power Blossoms</a> 📋.
                     <br /><br />
 
                     I'm 18 years old 🎂, use he/they pronouns 🏳️‍🌈 and also stream semi-regularly over
-                     on <a className="text-red-500 font-medium" href="https://twitch.tv/samophis">Twitch</a> 🎥.
+                     on <a className="text-red-500 font-medium" href="https://twitch.tv/luau_ow">Twitch</a> 🎥.
                     Feel free to contact me by <a className="text-red-500 font-medium" href="mailto:sampritchard0801@gmail.com">email</a> 📧,
                     through <a className="text-red-500 font-medium" href="https://discord.gg/UbXkbrXxT7">Discord</a>, or
                     through <a className="text-red-500 font-medium" href="https://twitter.com/luauOW">Twitter</a>.
