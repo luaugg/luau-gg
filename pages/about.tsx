@@ -3,7 +3,7 @@ import 'tailwindcss/tailwind.css'
 export default function Portfolio() {
     return (
         <div className="flex w-screen h-screen">
-            <div className="flex flex-col flex-initial flex-wrap mt-10 mx-auto w-1/3 h-auto xl:h-1/2 rounded-lg shadow bg-white space-y-5">
+            <div className="flex flex-col flex-initial flex-wrap mt-10 mx-auto w-1/3 h-auto xl:h-2/5 rounded-lg shadow bg-white space-y-5">
                 <div className="font-sans font-extralight sm:text-4xl text-xl text-gray-600 mx-auto mt-10">Hi, I'm Sam.</div>
                 <p className="font-sans font-extralight font-weight-500 md:text-sm text-xs text-center text-gray-600 mx-auto w-4/5 h-1/2">
                     Nice to meet you!
@@ -13,7 +13,7 @@ export default function Portfolio() {
                     <br /><br />
 
                     I play quite a bit of Overwatch and currently specialise for the Hitscan DPS role + some flex DPS (Sombra, Tracer).
-                    I manage social media for <a className="text-red-500 font-medium" href="https://powernappers.com">Power Nappers</a>
+                    I manage social media for <a className="text-red-500 font-medium" href="https://powernappers.com">Power Nappers</a> 
                     as well as helping manage <a className="text-red-500 font-medium" href="https://twitter.com/PowerBlossomsOW">Power Blossoms</a> 📋.
                     <br /><br />
 
