@@ -13,8 +13,8 @@ export default function Portfolio() {
                     <br /><br />
 
                     I play quite a bit of Overwatch and currently specialise for the Hitscan DPS role + some flex DPS (Sombra, Tracer).
-                    I manage social media for <a className="text-red-500 font-medium" href="https://powernappers.com">Power Nappers</a> 
-                     as well as helping manage <a className="text-red-500 font-medium" href="https://twitter.com/PowerBlossomsOW">Power Blossoms</a> 📋.
+                    I manage social media for <a className="text-red-500 font-medium" href="https://powernappers.com">Power Nappers </a>
+                    as well as helping manage <a className="text-red-500 font-medium" href="https://twitter.com/PowerBlossomsOW">Power Blossoms</a> 📋.
                     <br /><br />
 
                     I'm 18 years old 🎂, use he/they pronouns 🏳️‍🌈 and also stream semi-regularly over 
