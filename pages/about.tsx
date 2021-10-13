@@ -12,8 +12,8 @@ export default function Portfolio() {
                     ― that's why this site is so simple 😅 ― and also a lover of anything related to space 🚀 and flowers 🌺.
                     <br /><br />
 
-                    I play quite a bit of Overwatch and currently specialise for the Hitscan DPS role + some flex DPS (Sombra, Tracer).
-                    I manage social media for <a className="text-red-500 font-medium" href="https://powernappers.com">Power Nappers </a>
+                    I play quite a bit of Overwatch as a DPS player, primarily focusing on Tracer, Sombra, Echo, Hanzo, Pharah and Ashe. 
+                    I manage community stuff for <a className="text-red-500 font-medium" href="https://powernappers.com">Power Nappers </a>
                     as well as helping manage <a className="text-red-500 font-medium" href="https://twitter.com/PowerBlossomsOW">Power Blossoms</a> 📋.
                     <br /><br />
 
