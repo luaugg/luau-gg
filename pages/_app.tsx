@@ -28,7 +28,7 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                     <img className="w-7 h-6" src="twitter.png" />
                 </a>
 
-                <a className="flex-initial my-auto" href="https://twitch.tv/samophis">
+                <a className="flex-initial my-auto" href="https://twitch.tv/luau_ow">
                     <img className="w-7 h-7" src="twitch.png" />
                 </a>
             </div>
