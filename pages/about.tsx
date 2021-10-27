@@ -12,9 +12,9 @@ export default function Portfolio() {
                     ― that's why this site is so simple 😅 ― and also a lover of anything related to space 🚀 and flowers 🌺.
                     <br /><br />
 
-                    I currently play Flex DPS for a team called <a className="text-red-500 font-medium" href="https://twitter.com/PowerDragonsGa1">Power Dragons </a>.
+                    I currently play Flex DPS for a team called <a className="text-red-500 font-medium" href="https://twitter.com/PowerDragonsGa1">Power Dragons</a>.
                     I also manage the <a className="text-red-500 font-medium" href="https://powernappers.com">Power Nappers </a> community as well as one of its teams:
-                    <a className="text-red-500 font-medium" href="https://twitter.com/PowerBlossomsOW">Power Blossoms</a> 📋.
+                    <a className="text-red-500 font-medium" href="https://twitter.com/PowerBlossomsOW"> Power Blossoms</a> 📋.
                     <br /><br />
 
                     I'm 18 years old 🎂, use he/they pronouns 🏳️‍🌈 and also stream semi-regularly over 
