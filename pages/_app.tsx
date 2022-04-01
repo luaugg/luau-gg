@@ -21,11 +21,11 @@ export default function DefaultApp({ Component, pageProps }: AppProps) {
                 <div className="flex-auto flex-grow" />
 
                 <a className="flex-initial my-auto" href="https://discord.gg/UbXkbrXxT7">
-                    <img className="w-8 h-8" src="discord.png" />
+                    <img className="w-6.2 h-8" src="discord.png" />
                 </a>
 
                 <a className="flex-initial my-auto" href="https://twitter.com/luauOW">
-                    <img className="w-7 h-6" src="twitter.png" />
+                    <img className="w-6.2 h-6" src="twitter.png" />
                 </a>
 
                 <a className="flex-initial my-auto" href="https://twitch.tv/luau_ow">
